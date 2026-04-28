@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="style.css">
+</head>
+<body onload="checkLogin()">
+
+<div class="container">
+    <h2>Welcome to Frozen Services</h2>
+    <p>You are logged in ✅</p>
+    <button onclick="logout()">Logout</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
